@@ -332,7 +332,7 @@ header{
     height: 1px;
     background-color: #cccccc;
     margin-left: 70px;
-    margin-bottom: 70px;
+    margin-bottom: 30px;
 
 }
 
@@ -341,7 +341,7 @@ header{
     height: 1px;
     background-color: #cccccc;
     margin-left: 70px;
-    margin-top: -300px;
+    margin-top: -200px;
 }
 
 footer{
@@ -362,3 +362,13 @@ footer p{
     margin-top: 40px;
 }
 
+
+.f{
+    margin-left: 100px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.resources article{
+    margin-top: 100px;
+}

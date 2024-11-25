@@ -151,7 +151,7 @@ header{
 .categories .arow p:nth-of-type(1){
     display: inline-block;
     background-repeat: no-repeat;
-    background-image: url(../gif/link1.gif);
+    background-image: url(../gif/p1gif1.gif);
     content: "";
     width: 320px;
     height: 232px;
@@ -162,7 +162,7 @@ header{
 .categories .arow p:nth-of-type(2){
     display: inline-block;
     background-repeat: no-repeat;
-    background-image: url(../gif/link2.gif);
+    background-image: url(../gif/p1gif2.gif);
     content: "";
     width: 320px;
     height: 232px;
@@ -175,7 +175,7 @@ header{
     
     display: inline-block;
     background-repeat: no-repeat;
-    background-image: url(../gif/link3.gif);
+    background-image: url(../gif/p1gif3.gif);
     content: "";
     width: 320px;
     height: 232px;
@@ -195,7 +195,7 @@ header{
 .categories .brow p:nth-of-type(1){
     display: inline-block;
     background-repeat: no-repeat;
-    background-image: url(../gif/link4.gif);
+    background-image: url(../gif/p1gif4.gif);
     content: "";
     width: 320px;
     height: 232px;
@@ -206,7 +206,7 @@ header{
 .categories .brow p:nth-of-type(2){
     display: inline-block;
     background-repeat: no-repeat;
-    background-image: url(../gif/link5.gif);
+    background-image: url(../gif/p1gif5.gif);
     content: "";
     width: 320px;
     height: 232px;
@@ -219,7 +219,7 @@ header{
     
     display: inline-block;
     background-repeat: no-repeat;
-    background-image: url(../gif/link6.gif);
+    background-image: url(../gif/p1gif6.gif);
     content: "";
     width: 320px;
     height: 232px;
